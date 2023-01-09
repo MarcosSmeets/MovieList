@@ -1,0 +1,102 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Marcos",
+      "sobrenome": "Borges",
+      "email": "marcos@gmail.com",
+      "senha": "12345"
+    },
+    {
+      "id": 2,
+      "nome": "Fulano",
+      "sobrenome": "Da Silva",
+      "email": "fulano@gmail.com",
+      "senha": "12345"
+    },
+    {
+      "nome": "",
+      "sobrenome": "",
+      "email": "",
+      "senha": "",
+      "id": 3
+    },
+    {
+      "nome": "Diego",
+      "sobrenome": "Carlos",
+      "email": "diego@gmail.com",
+      "senha": "12345",
+      "id": 4
+    }
+  ],
+  "filmes": [
+    {
+      "id": 1,
+      "titulo": "Harry Potter e a Pedra Filosofal",
+      "tituloOriginal": "Harry Potter and the Sorcerer's Stone",
+      "sinopse": "Harry Potter é um garoto órfão que vive infeliz com seus tios, os Dursleys. Ele recebe uma carta contendo um convite para ingressar em Hogwarts, uma famosa escola especializada em formar jovens bruxos. Inicialmente, Harry é impedido de ler a carta por seu tio, mas logo recebe a visita de Hagrid, o guarda-caça de Hogwarts, que chega para levá-lo até a escola. Harry adentra um mundo mágico que jamais imaginara, vivendo diversas aventuras com seus novos amigos, Rony Weasley e Hermione Granger.",
+      "poster": "https://br.web.img3.acsta.net/medias/nmedia/18/95/59/60/20417256.jpg",
+      "anoLancamento": 2001,
+      "duracao": "2 h 32 min",
+      "categoria": "Aventura",
+      "rating": 7.6,
+      "usuarioId": 1
+    },
+    {
+      "id": 2,
+      "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+      "tituloOriginal": "The Lord of the Rings: The Fellowship of the Ring",
+      "poster": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/92/91/32/20224832.jpg",
+      "sinopse": "Um manso hobbit do Condado e oito companheiros partem em uma jornada para destruir o poderoso Um Anel e salvar a Terra-média das Trevas.",
+      "anoLancamento": 2001,
+      "duracao": "2 h 58 min",
+      "categoria": "Aventura",
+      "rating": 8.8,
+      "usuarioId": 1
+    },
+    {
+      "titulo": "Batman: O Cavaleiro das Trevas",
+      "tituloOriginal": "The Dark Knight",
+      "sinopse": "Quando a ameaça conhecida como O Coringa surge de seu passado, causa estragos e caos nas pessoas de Gotham. O Cavaleiro das Trevas deve aceitar um dos maiores testes para combater a injustiça.",
+      "anoLancamento": 2008,
+      "duracao": "2 h 32 min",
+      "categoria": "Ação",
+      "rating": 9,
+      "poster": "https://upload.wikimedia.org/wikipedia/pt/d/d1/The_Dark_Knight.jpg",
+      "id": 3
+    },
+    {
+      "titulo": "A Lista de Schindler",
+      "tituloOriginal": "Schindler's List",
+      "sinopse": "Depois de testemunhar a perseguição dos judaicos na Polônia ocupada pelos alemães durante a Segunda Guerra Mundial, o industrial Oskar Schindler se começa a preocupar com sua força de trabalho judaica.",
+      "anoLancamento": 1993,
+      "duracao": "3 h 15 min",
+      "categoria": "Biografia",
+      "rating": 9,
+      "poster": "https://br.web.img2.acsta.net/pictures/19/04/10/19/44/2904073.jpg",
+      "id": 4
+    },
+    {
+      "titulo": "O Silêncio dos Inocentes",
+      "tituloOriginal": "The Silence of the Lambs",
+      "sinopse": "Uma jovem deve receber a ajuda de um assassino canibal manipulador e preso para ajudar a capturar outro assassino em série, um louco que ataca suas vítimas.",
+      "anoLancamento": 1991,
+      "duracao": "1 h 58 min",
+      "categoria": "Policial",
+      "rating": 8.6,
+      "poster": "https://br.web.img3.acsta.net/pictures/14/10/07/22/16/591185.jpg",
+      "id": 5
+    },
+    {
+      "titulo": "A Viagem de Chihiro",
+      "tituloOriginal": "Sen to Chihiro no kamikakushi",
+      "sinopse": "Durante a mudança de casa, uma menina de dez anos se maravilha num mundo de dioses, bruxas e espíritus e onde os humanos são transformados em bestas.",
+      "anoLancamento": 2001,
+      "duracao": "2 h 5 min",
+      "categoria": "Animação",
+      "rating": 8.6,
+      "poster": "https://br.web.img3.acsta.net/pictures/210/527/21052756_20131024195513383.jpg",
+      "id": 6
+    }
+  ]
+}
